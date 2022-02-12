@@ -1,0 +1,26 @@
+body
+{
+    background-color:whitesmoke;
+}
+table
+{
+    margin:auto;
+    background-color:#FF8680;
+}
+td
+{
+    height:100px;
+    width:100px;
+    background-color:#7DF9FF;
+}
+img
+{
+    height:100px;
+    width:100px;
+}
+div
+{
+    margin:auto;
+    height:50px;
+    width:50px;
+}
